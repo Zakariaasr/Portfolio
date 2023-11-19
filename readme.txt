@@ -1,7 +1,7 @@
 -----------------------
 # README
 -----------------------
-asrawy is a one page bootstrap 3 based resume/portfolio template.
+asrawe is a one page bootstrap 3 based resume/portfolio template.
 
 Credits:
 -----------------------
