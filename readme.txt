@@ -1,7 +1,7 @@
 -----------------------
 # README
 -----------------------
-asraoui is a one page bootstrap 3 based resume/portfolio template.
+asrawi is a one page bootstrap 3 based resume/portfolio template.
 
 Credits:
 -----------------------
