@@ -12,7 +12,6 @@ Credits:
 - JQuery easing https://github.com/gdsmith/jquery.easing
 - Bootsnav http://bootsnav.danurstrap.com/
 - Pexels https://www.pexels.com/
-- Unsplash https://unsplash.com/
 
 License:
 -----------------------
