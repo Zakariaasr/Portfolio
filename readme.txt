@@ -2,7 +2,7 @@
 # README
 -----------------------
 <<<<<<< HEAD
-3esrawyyy is a one page bootstrap 3 based resume/portfolio template.
+3esrawe is a one page bootstrap 3 based resume/portfolio template.
 
 
 Template Info:
